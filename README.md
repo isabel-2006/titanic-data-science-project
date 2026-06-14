@@ -1,4 +1,5 @@
 # Titanic Data Science Project: EDA & Predictive Modeling
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/isabel-2006/titanic-data-science-project/blob/main/TITANICDATASETANALYSIS%20(1).ipynb)
 
 This repository contains an end-to-end Data Science workflow implemented in Python using Google Colab. The project follows a structured lifecycle to clean data, explore patterns, and build predictive models to determine passenger survival rates.
 
